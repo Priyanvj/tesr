@@ -1,0 +1,14 @@
+{
+    "defaultUser": "Admin",
+    "Password": "Admin",
+    "users":[
+        {
+            "username1": "Admin",
+            "password1": "Admin"
+        },
+        {
+            "username2": "Admin",
+            "password2": "Admin"
+        }
+    ]
+}
